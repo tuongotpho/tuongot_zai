@@ -408,13 +408,13 @@ export default function Home() {
             <Card className="mt-8 border-2 border-orange-200 overflow-hidden">
               <CardContent className="p-0">
                 <div className="w-full h-[400px] md:h-[450px]">
-                  <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14897.048148580603!2d105.81728845!3d21.022198749999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab1c16db8245%3A0x2ece78466781b970!2zVMawxqFuZyDhu5t0IFBo4bufIG5ndXnDqm4gY2jhuqV0IC0gQsO0bmcg4bubdA!5e0!3m2!1svi!2s!4v1770221389809!5m2!1svi!2s" 
-                    width="100%" 
-                    height="100%" 
-                    style={{ border: 0 }} 
-                    allowFullScreen="" 
-                    loading="lazy" 
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14897.048148580603!2d105.81728845!3d21.022198749999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab1c16db8245%3A0x2ece78466781b970!2zVMawxqFuZyDhu5t0IFBo4bufIG5ndXnDqm4gY2jhuqV0IC0gQsO0bmcg4bubdA!5e0!3m2!1svi!2s!4v1770221389809!5m2!1svi!2s"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0 }}
+                    allowFullScreen
+                    loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
                     className="w-full h-full"
                   />
