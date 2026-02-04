@@ -36,7 +36,7 @@ export default function Home() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
               <Flame className="h-8 w-8 text-orange-600" />
-              <span className="text-xl font-bold text-orange-700">Tương Ớt Hương Việt</span>
+              <span className="text-xl font-bold text-orange-700">Bông Ớt</span>
             </div>
             <nav className="hidden md:flex items-center gap-6">
               <Button 
@@ -109,7 +109,7 @@ export default function Home() {
               <div className="relative rounded-2xl overflow-hidden shadow-2xl shadow-orange-200/50">
                 <img
                   src="/images/chili-hero.png"
-                  alt="Tương ớt Hương Việt"
+                  alt="Tương ớt Bông Ớt"
                   className="w-full h-auto object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-orange-900/10 to-transparent" />
@@ -447,7 +447,7 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Flame className="h-8 w-8 text-orange-400" />
-                <span className="text-xl font-bold">Tương Ớt Hương Việt</span>
+                <span className="text-xl font-bold">Bông Ớt</span>
               </div>
               <p className="text-gray-300 text-sm">
                 Sản phẩm tương ớt tự nhiên, không chất bảo quản, không tỏi, không cà chua. 
@@ -472,7 +472,7 @@ export default function Home() {
           </div>
           <Separator className="bg-orange-800/50 mb-6" />
           <div className="text-center text-gray-400 text-sm">
-            <p>© 2024 Tương Ớt Hương Việt. All rights reserved.</p>
+            <p>© 2024 Bông Ớt. All rights reserved.</p>
             <p className="mt-2">Sản phẩm 100% tự nhiên - Sức khỏe của bạn là ưu tiên của chúng tôi</p>
           </div>
         </div>
